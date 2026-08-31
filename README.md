@@ -25,7 +25,7 @@ https://huggingface.co/soonbob
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#9](https://github.com/sosososoyoen/next-js-blog/issues/9) in [sosososoyoen/next-js-blog](https://github.com/sosososoyoen/next-js-blog)
+1. 💪 Opened PR [#1](https://github.com/ssumniee/workie/pull/1) in [ssumniee/workie](https://github.com/ssumniee/workie)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
